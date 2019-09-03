@@ -1,7 +1,7 @@
 Python 3.7.3 (default, Apr  3 2019, 05:39:12) 
 [GCC 8.3.0] on linux
 Type "help", "copyright", "credits" or "license()" for more information.
->>> a="Hii Ashika"
+>>> a="Hii Chandana"
 >>> a
 'Hii chandana'
 >>> b=how r u
@@ -54,9 +54,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 >>> c=a+b
 >>> c
-'Hii Ashikahow are you'
+'Hii Chandanahow are you'
 >>> c.capitalize()
-'Hii ashikahow are you'
+'Hii Chandanahow are you'
 >>> c.title()
-'Hii Ashikahow Are You'
+'Hii Chandanahow Are You'
 
