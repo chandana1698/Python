@@ -1,0 +1,62 @@
+Python 3.7.3 (default, Apr  3 2019, 05:39:12) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> a="Hii Ashika"
+>>> a
+'Hii chandana'
+>>> b=how r u
+
+>>> b="how are you"
+>>> b
+'how are you'
+>>> a+b
+'Hii chandanahow are you'
+>>> a*2
+'Hii chandanaHii chandana'
+
+>>> b*2
+'how are youhow are you'
+>>> len(a)
+12
+>>> len(b)
+11
+>>> len(a+b)
+23
+
+>>> a[0:4]
+'Hii '
+>>> a[4:12]
+'chandana'
+>>> b[3:11]
+' are you'
+>>> b[1:5]
+'ow a'
+>>> a+b[0:10]
+'Hii chandanahow are yo'
+>>> a+b[10:23]
+'Hii Chandanau'
+>>> a.upper()
+'HII CHANDANA'
+>>> a.lower()
+'hii chandana'
+>>> b.upper()
+'HOW ARE YOU'
+>>> b.lower()
+'how are you'
+>>> a+b.upper()
+'HII CHANDANAHOW ARE YOU'
+>>> a+b.lower()
+'hii chandanahow are you'
+>>> a.capitalize()
+'Hii chandana'
+>>> a.title()
+'Hii Chandana'
+
+>>> c=a+b
+>>> c
+'Hii Ashikahow are you'
+>>> c.capitalize()
+'Hii ashikahow are you'
+>>> c.title()
+'Hii Ashikahow Are You'
+
